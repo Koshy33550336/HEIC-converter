@@ -1,2 +1,66 @@
 # HEIC-Converter
-Batch conversion tool to convert HEIC images to PNG using Python.
+
+## 🇯🇵 日本語
+
+### 概要
+HEIC形式の画像をPNGまたはJPG形式に一括変換できるWindows向けデスクトップアプリです．
+研究用途でWeb変換サービスを使わずローカル環境で安全かつ効率的に変換する目的で開発しました．
+
+### 主な機能
+- HEIC画像の一括変換（PNG / JPG）
+- フォルダ単位・複数ファイル対応
+- ドラッグ＆ドロップで操作可能
+- 変換結果のプレビュー表示
+- ローカル環境のみで動作（通信なし）
+
+### 使用技術
+- Python 3.11
+- Pillow
+- pillow-heif
+- Tkinter / tkinterdnd2
+- PyInstaller（インストーラ作成）
+
+### インストール方法
+Windows用インストーラを利用してください．
+詳細な手順は以下を参照してください．
+
+📄 **[DISTRIBUTION-GUIDE.md](./DISTRIBUTION-GUIDE.md)**
+
+### 動作環境
+- Windows 10 / 11（64bit）
+
+---
+
+## 🇺🇸 English
+
+### Overview
+A Windows desktop application for batch-converting HEIC images to PNG or JPG format.  
+This tool was developed for research purposes to enable secure and efficient conversion within a local environment without using web conversion services.
+
+### Features
+- Batch conversion from HEIC to PNG or JPG
+- Supports folders and multiple files
+- Drag-and-drop user interface
+- Preview converted images
+- Fully offline operation
+
+### Technology Stack
+- Python 3.11
+- Pillow
+- pillow-heif
+- Tkinter / tkinterdnd2
+- PyInstaller (installer creation)
+
+### Installation
+Please use the Windows installer.  
+For detailed instructions, see:
+
+📄 **[DISTRIBUTION-GUIDE.md](./DISTRIBUTION-GUIDE.md)**
+
+### System Requirements
+- Windows 10 / 11 (64-bit)
+
+---
+
+## 📄 License
+MIT License
