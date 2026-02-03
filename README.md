@@ -4,7 +4,7 @@
 
 ### 概要
 HEIC形式の画像をPNGまたはJPG形式に一括変換できるWindows向けデスクトップアプリです．
-研究用途でWeb変換サービスを使わずローカル環境で安全かつ効率的に変換する目的で開発しました．
+Web変換サービスを使わずにローカル環境で安全かつ効率的に変換することが可能です．
 
 ### 主な機能
 - HEIC画像の一括変換（PNG / JPG）
@@ -35,7 +35,7 @@ Windows用インストーラを利用してください．
 
 ### Overview
 A Windows desktop application for batch-converting HEIC images to PNG or JPG format.  
-This tool was developed for research purposes to enable secure and efficient conversion within a local environment without using web conversion services.
+This tool enables safe and efficient conversion locally without using web conversion services.
 
 ### Features
 - Batch conversion from HEIC to PNG or JPG
