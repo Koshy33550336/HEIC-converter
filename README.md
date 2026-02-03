@@ -21,7 +21,7 @@ Web変換サービスを使わずにローカル環境で安全かつ効率的�
 - PyInstaller（インストーラ作成）
 
 ### インストール方法
-Windows用インストーラを利用してください．
+最新版のインストーラは Releases からダウンロードできます．
 詳細な手順は以下を参照してください．
 
 📄 **[DISTRIBUTION_GUIDE.md](./DISTRIBUTION_GUIDE.md)**
@@ -52,7 +52,7 @@ This tool enables safe and efficient conversion locally without using web conver
 - PyInstaller (installer creation)
 
 ### Installation
-Please use the Windows installer.  
+You can download the latest installer from Releases. 
 For detailed instructions, see:
 
 📄 **[DISTRIBUTION_GUIDE.md](./DISTRIBUTION_GUIDE.md)**
