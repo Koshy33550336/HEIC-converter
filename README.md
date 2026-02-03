@@ -24,7 +24,7 @@ Web変換サービスを使わずにローカル環境で安全かつ効率的�
 Windows用インストーラを利用してください．
 詳細な手順は以下を参照してください．
 
-📄 **[DISTRIBUTION-GUIDE.md](./DISTRIBUTION-GUIDE.md)**
+📄 **[DISTRIBUTION_GUIDE.md](./DISTRIBUTION_GUIDE.md)**
 
 ### 動作環境
 - Windows 10 / 11（64bit）
