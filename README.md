@@ -55,7 +55,7 @@ This tool enables safe and efficient conversion locally without using web conver
 Please use the Windows installer.  
 For detailed instructions, see:
 
-📄 **[DISTRIBUTION-GUIDE.md](./DISTRIBUTION-GUIDE.md)**
+📄 **[DISTRIBUTION_GUIDE.md](./DISTRIBUTION_GUIDE.md)**
 
 ### System Requirements
 - Windows 10 / 11 (64-bit)
